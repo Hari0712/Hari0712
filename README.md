@@ -37,10 +37,10 @@
 | Project | Tech |
 |--------|------|
 | 🎭 [3D Portfolio Website](https://yourlink.com) | `React`, `Three.js`, `Tailwind` |
-| 🔍 [Zoom Image App](https://github.com/Hari-07/Zoom-Image-App) | `React`, `Tailwind` |
-| 🎹 [Piano App](https://hari-07.github.io/Piano-App) | `HTML`, `CSS`, `JavaScript` |
-| ✅ [To-Do List App](https://hari-07.github.io/React-ToDo-App) | `HTML`, `CSS`, `JavaScript` |
-| ❌ [Tic Tac Toe Game](https://hari-07.github.io/Tic-Tac-Toe-JS) | `HTML`, `CSS`, `JavaScript` |
+| 🔍 [Zoom Image App](https://zoomimageapp.netlify.app/) | `React`, `Tailwind` |
+| 🎹 [Piano App](https://playpianousingjs.netlify.app/) | `HTML`, `CSS`, `JavaScript` |
+| ✅ [To-Do List App](https://todolistappusingjs.netlify.app/) | `HTML`, `CSS`, `JavaScript` |
+| ❌ [Tic Tac Toe Game](https://tictactoeusingjs.netlify.app/) | `HTML`, `CSS`, `JavaScript` |
 | 🐸 Stylized Frog Character (Blender) | `Blender`, `Texturing`, `Rigging` |
 | ☄️ Meteor Animation (Blender) | `Blender`, `Particles`, `Anime VFX` |
 
