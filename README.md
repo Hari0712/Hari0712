@@ -3,7 +3,7 @@
 
 <p align="center">
   📧 <a href="mailto:hariharasudhannv07@gmail.com">Email</a> •
-  🔗 <a href="https://linkedin.com/in/hariharasudhann-mv">LinkedIn</a> •
+  🔗 <a href="https://www.linkedin.com/in/hariharasudhan-mv-/">LinkedIn</a> •
   💻 <a href="https://github.com/Hari-07">GitHub</a>
 </p>
 
